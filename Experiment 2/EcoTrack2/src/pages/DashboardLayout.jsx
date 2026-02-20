@@ -9,6 +9,7 @@ const DashboardLayout = () => {
         <div style={{display:"flex", gap:"14px"}}>
           <Link to="summary" >Summary</Link>
           <Link to="analytics">Analytics</Link>
+          <Link to="logs">Logs</Link>
         </div>
       </nav>
 
