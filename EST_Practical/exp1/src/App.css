@@ -1,0 +1,9 @@
+/* Basic minimum styling, no extras */
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+input {
+  margin-left: 10px;
+}
